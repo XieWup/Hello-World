@@ -1,0 +1,3 @@
+system.printout(){
+print("你好。")
+}
